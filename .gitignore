@@ -1,0 +1,12 @@
+# לעולם אל תעלו לגיט
+.env
+venv/
+__pycache__/
+*.pyc
+data/uploaded_pdfs/
+.faiss_index/
+.streamlit/secrets.toml
+
+# קבצי מערכת הפעלה
+.DS_Store
+Thumbs.db
